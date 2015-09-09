@@ -1,16 +1,14 @@
 # _Leap Year Calculator_
 
-##### _Leap year explainorator 9/07/2015_
+##### _Is it leap year? 9/07/2015_
 
 #### By Charles Moss and Mike Chastain
 
 ## Description
 
-_User enters a year.  Calculates and returns whether or not it is a leap year.  _
-
+_User enters a year, the site will calculates and return whether or not it is a leap year._
 
 ## Setup
-
 
 _Clone and open index.html in your browser._  
 
@@ -19,17 +17,13 @@ _Clone and open index.html in your browser._
 _This project makes use of:
 [Mocha](https://mochajs.org/), and
 [Chai](http://chaijs.com/) as testing-frameworks.
-And has a dependency for jQuery.
- _
+And has a dependency for jQuery._
 
 ## Aside
 
-
-
+_Finaly you can be assured of the next time Leap Day William will emerge from the Mariana Trench._
 
 ### Legal
-
-
 
 Copyright (c) 2015 Charles A Moss and Michael W Chastain
 
